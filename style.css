@@ -1,0 +1,96 @@
+/* ------------------------------ */
+/* Page Structure */
+/* ------------------------------ */
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+  background-color: #AEBD93;
+  padding: 0px;
+  margin: 0px;
+}
+
+header {
+  background-color: #5B9279;
+  width: 100%;
+  height: 100px;
+  margin: auto;
+}
+footer {
+  background-color: #5B9279;
+  margin: auto;
+  height: 75px;
+  width: 100%;
+}
+.middle-container {
+  margin: auto;
+  width: 60%;
+  align: center;
+  background-color: #12130F;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+}
+.text-container {
+  margin: auto;
+  width: 90%;
+  padding:10px;
+  background-color: #EAE6E5;
+  
+}
+/* ------------------------------ */
+/* Text and Image styles */
+/* ------------------------------ */
+h2, h1 {
+  color: #DEB887;
+  font-family: Times New Roman;
+  text-align: center;
+}
+
+.nav-link {
+  text-align: center;
+  margin: auto;
+}
+
+h2 {
+  text-align: center;
+  color: #A9714B;
+}
+
+.name-title {
+  color: #DEB887;
+}
+
+hr {
+  width: 75%;
+}
+
+img {
+  display: block;
+  margin: auto;
+  height: 150px;
+  width: 150px;
+  border-radius: 100%;
+  border: 2px solid black;
+}
+
+.copyright {
+  padding-top: 20px;
+  text-align: center;
+  color: black;
+}
+
+a:link {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover{
+  color: #5B9279;
+  
+}
+
+a:visited {
+  color: #E8985E;
+}
+
